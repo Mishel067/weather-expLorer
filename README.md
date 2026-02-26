@@ -1,4 +1,4 @@
-# weather-expLorer
+# weather-explorer
 Command-line weather explorer for Russia's regional centres. Features: district grouping, coordinate database, logging, and clean CLI UX. Powered by Python &amp; Open-Meteo.
 [README.md](https://github.com/user-attachments/files/25567590/README.md)
  # Weather Explorer
